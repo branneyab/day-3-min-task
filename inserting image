@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><h2>image display</h2></title>
+    </head>
+    <body>
+        <p>
+        <img src="AirBrush_20220620084333" alt="deya laban image">
+        </p>
+        <p>
+        <img src="newlogo.webp"alt="power learn project logo">
